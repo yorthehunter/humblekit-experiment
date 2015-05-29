@@ -4,10 +4,10 @@
     <title>Your awesome title</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 May 2015 13:21:42 -0400</pubDate>
-    <lastBuildDate>Fri, 29 May 2015 13:21:42 -0400</lastBuildDate>
+    <link>yorthehunter.github.io/humblekit-experiment/</link>
+    <atom:link href="yorthehunter.github.io/humblekit-experiment/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 29 May 2015 13:24:49 -0400</pubDate>
+    <lastBuildDate>Fri, 29 May 2015 13:24:49 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 29 May 2015 07:56:59 -0400</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/29/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/29/welcome-to-jekyll.html</guid>
+        <link>yorthehunter.github.io/humblekit-experiment/jekyll/update/2015/05/29/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">yorthehunter.github.io/humblekit-experiment/jekyll/update/2015/05/29/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
